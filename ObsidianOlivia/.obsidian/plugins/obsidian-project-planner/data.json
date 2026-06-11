@@ -1,0 +1,82 @@
+{
+  "settings": {
+    "projects": [
+      {
+        "id": "1ebb1250-fa7a-466b-b00f-42bccc88cae3",
+        "name": "My Project",
+        "createdDate": "2026-06-11T15:54:23.829Z",
+        "lastUpdatedDate": "2026-06-11T15:54:23.829Z"
+      }
+    ],
+    "activeProjectId": "1ebb1250-fa7a-466b-b00f-42bccc88cae3",
+    "defaultView": "grid",
+    "showCompleted": true,
+    "openLinksInNewTab": false,
+    "openViewsInNewTab": false,
+    "availableTags": [],
+    "availableStatuses": [
+      {
+        "id": "not-started",
+        "name": "Not Started",
+        "color": "#6c757d"
+      },
+      {
+        "id": "in-progress",
+        "name": "In Progress",
+        "color": "#0a84ff"
+      },
+      {
+        "id": "blocked",
+        "name": "Blocked",
+        "color": "#d70022"
+      },
+      {
+        "id": "completed",
+        "name": "Completed",
+        "color": "#2f9e44"
+      }
+    ],
+    "availablePriorities": [
+      {
+        "id": "low",
+        "name": "Low",
+        "color": "#6c757d"
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "color": "#0a84ff"
+      },
+      {
+        "id": "high",
+        "name": "High",
+        "color": "#ff8c00"
+      },
+      {
+        "id": "critical",
+        "name": "Critical",
+        "color": "#d70022"
+      }
+    ],
+    "enableMarkdownSync": true,
+    "autoCreateTaskNotes": true,
+    "syncOnStartup": false,
+    "projectsBasePath": "Project Planner",
+    "enableDailyNoteSync": false,
+    "dailyNoteTagPattern": "#planner",
+    "dailyNoteScanFolders": [],
+    "dailyNoteDefaultProject": "",
+    "enableDependencyScheduling": true,
+    "enableParentRollUp": true,
+    "dateFormat": "iso",
+    "ganttLeftColumnWidth": 300,
+    "showRibbonIconGrid": true,
+    "showRibbonIconDashboard": false,
+    "showRibbonIconBoard": false,
+    "showRibbonIconGraph": false,
+    "showRibbonIconDailyNoteScan": false
+  },
+  "tasksByProject": {
+    "1ebb1250-fa7a-466b-b00f-42bccc88cae3": []
+  }
+}

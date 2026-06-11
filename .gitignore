@@ -1,0 +1,16 @@
+Claude/
+env/
+__pycache__/
+*.pyc
+.chroma/
+*.pt
+*.pth
+*.bin
+*.onnx
+*.weights
+.env
+secrets/
+*_token.*
+*_key.*
+*credentials*
+.claude/settings.local.json
